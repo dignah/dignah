@@ -12,6 +12,8 @@ I'm  **Digna Gasper** ,a computer science engineer and also a Licenced Drone Pil
 
 
 ### Interest
+- Drone
+- Coding 
 
 
 ### Languages
